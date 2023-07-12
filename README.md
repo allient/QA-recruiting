@@ -10,6 +10,7 @@ Tenemos esta plataforma que tiene como objetivo realizar inspecciones virtuales 
 
 En el siguiente link puedes ver un video de la plataforma desde el usuario ajustador y mostrando las principales vistas del BackOffice en desarrollo.
 [https://mega.nz/file/xU11TaKD#nQp8FiaOPMgrm5saaAAHYJ30Elo8e8gw7K9IAAz9Ejk]
+[https://shorturl.at/iMN57]
 
 En esta imagen esta la arquitectura del desarrollo.
 ![image](https://github.com/jrtec-io/QA-recruiting/blob/main/architecture.png)
