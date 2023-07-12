@@ -3,8 +3,11 @@ Descripción de la Prueba Técnica - Analista QA Tester
 Como parte de proceso de reclutamiento, nos gustaría que desarrollaras este caso.  En esta prueba técnica, queremos evaluar tus conocimientos como QA al diseñar casos de prueba.
 
 Tenemos esta plataforma que tiene como objetivo realizar inspecciones virtuales para un ajustador de seguros. Nos enfocaremos en 2 historia de usuario:
+
 **Ajustador**  Es la persona encargada de crear nuevos expedientes en caso de siniestros, subir la información y agendar una inspección virtual con los asegurados para hacer la revisión del siniestro.
+
 **Asegurado** Recibe un link para una reunión virtual, donde el ajustador puede tomar fotos en tiempo real, tomar notas acerca del siniestro.
+
 En el siguiente link puedes ver un video de la plataforma desde el usuario ajustador y mostrando las principales vistas del BackOffice en desarrollo.
 [https://mega.nz/file/dFkShAIa#TrKYtMYfRv1K-b-0c7yt0HESLDdRevwuKP5ht9HLds8]
 
