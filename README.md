@@ -9,10 +9,10 @@ Tenemos esta plataforma que tiene como objetivo realizar inspecciones virtuales 
 **Asegurado** Recibe un link para una reunión virtual, donde el ajustador puede tomar fotos en tiempo real, tomar notas acerca del siniestro.
 
 En el siguiente link puedes ver un video de la plataforma desde el usuario ajustador y mostrando las principales vistas del BackOffice en desarrollo.
-[https://mega.nz/file/dFkShAIa#TrKYtMYfRv1K-b-0c7yt0HESLDdRevwuKP5ht9HLds8]
+[https://mega.nz/file/xU11TaKD#nQp8FiaOPMgrm5saaAAHYJ30Elo8e8gw7K9IAAz9Ejk]
 
 En esta imagen esta la arquitectura del desarrollo.
-![image](https://github.com/jrtec-io/QA-recruiting/blob/main/Arquitectura.png)
+![image](https://github.com/jrtec-io/QA-recruiting/blob/main/architecture.png)
 
 Durante la entrevista podemos desarrollar las siguientes preguntas:
 - ¿Qué tipos de pruebas realizarías para asegurar que el backoffice cumple con los requisitos y está listo para su lanzamiento? 
